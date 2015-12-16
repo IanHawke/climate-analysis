@@ -2,8 +2,8 @@
 
 ## Authors
 
-* Ian Hawke (the greatest)
 * Joshua Greenhalgh (a real hack).
+* Ian Hawke (the greatest)
 
 ## Further information
 
