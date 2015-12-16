@@ -2,8 +2,8 @@
 
 ## Authors
 
-Ian Hawke
-Joshua Greenhalgh
+* Ian Hawke
+* Joshua Greenhalgh
 
 ## Further information
 
